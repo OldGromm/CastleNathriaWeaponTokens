@@ -1,0 +1,8 @@
+## Interface: 110107
+## Version: 1.0
+## Title: Castle Nathria Weapon Tokens
+## Notes: Displays which weapon appearances from the Castle Nathria raid have been unlocked.
+## Author: OldGromm
+## IconTexture: 3614361
+
+CastleNathriaWeaponTokens.lua
