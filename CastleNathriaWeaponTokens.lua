@@ -357,7 +357,7 @@ AddonCompartmentFrame:RegisterAddon({
     end,
     funcOnEnter = function(button)
         MenuUtil.ShowTooltip(button, function(tooltip)
-            tooltip:SetText("Creates a dropdown menu that allows for quick changing of your class' specialization.")
+            tooltip:SetText("Displays which weapon appearances from the Castle Nathria raid have been unlocked.")
         end)
     end,
     funcOnLeave = function(button)
@@ -365,3 +365,4 @@ AddonCompartmentFrame:RegisterAddon({
     end,
 })
 -- Compartment (End)
+
